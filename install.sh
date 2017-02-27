@@ -35,7 +35,7 @@ case $DISTRIBUTION in
 
 	;;
 	*)
-		echo "There is not yet installation for your distribution.\nMaybe are you a volunteer to do it? :)"
+		echo "There is not yet installation for your distribution.\nMaybe are you a volunteer to make it? :)"
         echo "Trying to install using pip3 anyway"
         echo "Please make sure that git, python3 and pygame are installed."
 	;;
